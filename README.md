@@ -43,14 +43,14 @@ A simple and secure **Node.js** REST API built with **Express.js**, **Mongoose**
     
 ---
 
-<!-- ## 📸 Screenshot
+## 📸 Screenshot
 
 ![alt text](image.png) -->
 
 ---
-<!-- 
+ 
 ## 🧪 API Testing Documentation
 
 Use **Postman** to test all the API endpoints. You can access the full documentation here:
 
-🔗 [Postman Collection] (https://documenter.getpostman.com/view/45958415/2sB2xBEAMd) -->
+🔗 [Postman Collection] (https://documenter.getpostman.com/view/45958415/2sB2xBEAMd)
